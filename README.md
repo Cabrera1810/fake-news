@@ -3,6 +3,6 @@ Detector de fake news con modelo entrenado con noticias de El Salvador de temas 
 
 REQUERIMIENTOS:
 <br>scikit-learn
-pandas
-numpy
-Flask
+<br>pandas
+<br>numpy
+<br>Flask
